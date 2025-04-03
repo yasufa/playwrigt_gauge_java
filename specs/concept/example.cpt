@@ -1,0 +1,22 @@
+# <url> e gidilir
+* <url> urle git
+
+# Arama alanına <text> yazılır ve aranır
+* "anasayfaAramaInput" elemente <text> yaz
+* Enter tusuna tıklanır
+
+# Sign In butonuna tıklanır
+* "signIn" elemente tıkla
+
+# Cat Menü de <text> değerine eşit olana tıklanır
+* "catMenu" li elementlerden <text> degerine esit olana tikla
+
+# Elektronik yazısı kontrolü
+* "elektronikTxt" elementi görünüyor mu?
+
+
+
+
+
+
+

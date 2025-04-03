@@ -1,0 +1,18 @@
+{
+  "anasayfaAramaInput": {
+    "type": "css",
+    "value": "#searchData"
+  },
+  "signIn": {
+    "type": "css",
+    "value": ".btnSignIn"
+  },
+  "catMenu": {
+    "type": "css",
+    "value": ".catMenu ul li[class='catMenuItem'] a[class='itemContainer'] span"
+  },
+  "elektronikTxt": {
+    "type": "xpath",
+    "value": "//div[@id='breadCrumb']/ul/li[2]"
+  }
+}
